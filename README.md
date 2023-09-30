@@ -13,6 +13,8 @@ SQL queries were first written to calculate metrics like total revenue, average 
 
 **Dashboards**
 
+![alt text](https://github.com/Mohammedelmargane/Pizza_RevenueProject/blob/473399cc3284a1bc7201086dd8bfe13184a445e6/Images/Screenshot%202023-09-30%20195633.png)
+
 Visualizations in Power BI transformed the SQL query output into dynamic dashboards. Key charts included total revenue over time, revenue by day of week, top selling items, and sales by category and size. Slicers enabled filtering the data on various dimensions. The dashboards provided an interactive vizual interface to explore results.
 
 **Outcomes**
@@ -20,4 +22,4 @@ Visualizations in Power BI transformed the SQL query output into dynamic dashboa
 The analysis yielded actionable insights for the pizza company. Low-selling pizzas were identified as candidates to remove from the menu. Popular items and sizes were highlighted to feature more prominently. Slow days of the week were revealed as opportunities for promotional campaigns to drive orders. In summary, the project enabled data-driven decision making to maximize revenue. The SQL queries and Power BI dashboards created can be easily adapted for ongoing analytics.
 
 
-![alt text](https://github.com/Mohammedelmargane/Pizza_RevenueProject/blob/473399cc3284a1bc7201086dd8bfe13184a445e6/Images/Screenshot%202023-09-30%20195633.png)
+
