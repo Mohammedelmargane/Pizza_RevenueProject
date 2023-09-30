@@ -18,3 +18,6 @@ Visualizations in Power BI transformed the SQL query output into dynamic dashboa
 **Outcomes**
 
 The analysis yielded actionable insights for the pizza company. Low-selling pizzas were identified as candidates to remove from the menu. Popular items and sizes were highlighted to feature more prominently. Slow days of the week were revealed as opportunities for promotional campaigns to drive orders. In summary, the project enabled data-driven decision making to maximize revenue. The SQL queries and Power BI dashboards created can be easily adapted for ongoing analytics.
+
+
+![alt text](Images/Screenshot 2023-09-30 195633.png)
