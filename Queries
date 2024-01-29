@@ -1,1 +1,8 @@
+Total_Revenue
+      select sum(total_price) as Total_Revenue from pizza_sales
+![alt text](https://github.com/Mohammedelmargane/Pizza_RevenueProject/blob/4b0068a262fb6a2a606dd1ad42fe2a754a32dfc7/Images/Total_Revenue.png)
+
+Average_Order_Value
+      select sum(total_price) / COUNT(DISTINCT order_id) AS AVG_OrderValue from pizza_sales
+![alt text](https://github.com/Mohammedelmargane/Pizza_RevenueProject/blob/4b0068a262fb6a2a606dd1ad42fe2a754a32dfc7/Images/Average_Order_Value.png)
 
