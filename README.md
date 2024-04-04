@@ -11,7 +11,7 @@ The pizza sales data included details on each order such as order date, order to
 
 SQL queries were first written to calculate metrics like total revenue, average order value, total orders, average pizzas per order, and breakdowns by day and month. These key numbers established an overall picture of sales and revenue. Further SQL queries identified top and bottom-selling pizzas by revenue, quantity, and order frequency. These uncovered the most and least popular menu items. Finally, percentage contribution queries revealed insights into pizza categories, sizes, and proportional sales mix.
 
-see all Queries [Here]([http://someurl](https://github.com/Mohammedelmargane/Pizza_RevenueProject/blob/e1c727f3e2883b289cb66ca3b93ef7d0587ec26e/Queries.md))
+see all Queries ![Here]([http://someurl](https://github.com/Mohammedelmargane/Pizza_RevenueProject/blob/e1c727f3e2883b289cb66ca3b93ef7d0587ec26e/Queries.md))
 
 
 **Dashboards**
